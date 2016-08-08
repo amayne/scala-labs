@@ -28,7 +28,7 @@ libraryDependencies ++= Seq("joda-time" % "joda-time" % "1.6",
         "junit" % "junit" % "4.7" % "test",
         "hsqldb" % "hsqldb" % "1.8.0.1" % "test",
         "org.hibernate" % "hibernate-entitymanager" % "3.4.0.GA",
-        "org.slf4j" % "slf4j-simple" % "1.4.2")
+        "org.slf4j" % "slf4j-api" % "1.7.21")
 
 scalariformSettings
 
